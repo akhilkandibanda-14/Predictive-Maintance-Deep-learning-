@@ -1,0 +1,26 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# Ignore dataset if it's large (Uncomment to ignore)
+# dataset/
+
+# Ignore large models if needed (Uncomment to ignore)
+# models/*.keras
+# models/*.pkl
